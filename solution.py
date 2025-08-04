@@ -1,3 +1,9 @@
+#Author: Dexter
+#Date: 2025,Aug 4.
+#Copyright: MIT
+
+
+
 import sys
 from typing import List
 
@@ -65,3 +71,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
